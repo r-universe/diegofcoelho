@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "LLSR",
+    "oncran": true
+  }
+]
